@@ -16,7 +16,7 @@ public class ObjectDemo {
 		
 		Demo d = new Demo();
 		System.out.println(d);
-		d.
+		
 		
 	}
 }
