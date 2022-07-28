@@ -7,6 +7,9 @@ public class CompareString {
 		String str = "keep";
 		String str1 = "peek";
 		
+		
+	
+		
 		int flag = 0;
 		for(int i=0;i<str.length();i++)
 		{
@@ -26,6 +29,7 @@ public class CompareString {
 		{
 			System.out.println("not same");
 		}
+	
 		
 	}
 }
