@@ -12,7 +12,7 @@ public class F04_file {
 		System.out.println(file.isFile());
 		System.out.println(file.isDirectory());
 		
-		file.mkdir();
+		//file.mkdir();
 		
 //		if(file.exists())
 //		{
